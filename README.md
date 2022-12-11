@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TakeMyTrinity</h1>
 <h3 align="center">I am TakeMyTinity (Lilian Malinge) I am currently 20 years old. I'm also a computer science enthusiast, I'm currently in my second year of a higher technician diploma at ESUPEC in Cholet where I'm learning web and software development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takemytrinity" alt="takemytrinity" /></a> </p>
-
 - 🔭 I’m currently working on [PuyDuFou](#)
 
 - 🌱 I’m currently learning **Symfony, JS, JAVAFX**
