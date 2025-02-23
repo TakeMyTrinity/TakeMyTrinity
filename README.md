@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lilian Malinge</h1>
 <h3 align="center">My name is TakeMyTinity (Lilian Malinge) I am currently 22 years old. I am also passionate about IT, I am currently freelance and looking for a job in web/mobile development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takemytrinity" alt="takemytrinity" /></a> </p>
-
 - 🔭 I’m currently working on [WeatherApp](https://github.com/TakeMyTrinity/weatherApp)
 
-- 👨‍💻 All of my projects are available at [working on](working on)
+- 👨‍💻 All of my projects are available at [working on]
 
 - 📫 How to reach me **malingelilian49@gmail.com**
 
