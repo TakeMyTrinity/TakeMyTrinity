@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WeatherApp](https://github.com/TakeMyTrinity/weatherApp)
 
-- 👨‍💻 All of my projects are available at https://takemytrinity.github.io
+- 👨‍💻 All of my projects are available at https://takemytrinity.github.io/PortfolioLM/
 
 - 📫 How to reach me **malingelilian49@gmail.com**
 
